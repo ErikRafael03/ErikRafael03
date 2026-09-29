@@ -10,8 +10,6 @@ Atualmente, estou focado em aprimorar meus conhecimentos em infraestrutura, admi
 
 
 
-# 🛠️ Conhecimentos
-
 ## 🖥️ Infraestrutura & Suporte
 
 <p align="left">
