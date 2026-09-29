@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Erik Rafael
+# 👋 Olá, eu sou Erik Rafael!!
 
 ### 🖥️ Técnico de Suporte e Infraestrutura de TI | Desenvolvedor Web
 
@@ -18,9 +18,6 @@ Atualmente, estou focado em aprimorar meus conhecimentos em infraestrutura, admi
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPO-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redes_TCP%2FIP-444444?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDP-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 - Suporte técnico
@@ -39,7 +36,6 @@ Atualmente, estou focado em aprimorar meus conhecimentos em infraestrutura, admi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 Tenho experiência no desenvolvimento de aplicações e projetos web utilizando:
@@ -81,10 +77,6 @@ Experiência com bancos de dados relacionais e utilização do Firebase em aplic
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/ErikRafael03">
-    <img src="https://img.shields.io/badge/GitHub-ErikRafael03-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://erik-rafael-portfolio.erikrafael-dev.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Erik_Rafael-485389?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -92,6 +84,3 @@ Experiência com bancos de dados relacionais e utilização do Firebase em aplic
 
 📧 **erikrafael.dev@gmail.com**
 
----
-
-> 🚀 Sempre aprendendo, construindo e evoluindo.
