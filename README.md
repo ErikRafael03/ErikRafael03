@@ -1,25 +1,97 @@
-### Olá!! Eu sou Erik Rafael👋👋
+# 👋 Olá, eu sou Erik Rafael
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-rafael/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikr.__/)
+### 🖥️ Técnico de Suporte e Infraestrutura de TI | Desenvolvedor Web
 
-![erik GitHub stats](https://github-readme-stats.vercel.app/api?username=erikrafael03&show_icons=true&theme=radical)
+Sou um profissional de Tecnologia da Informação, graduado em Análise e Desenvolvimento de Sistemas, com atuação em suporte técnico e infraestrutura de TI. Tenho experiência com atendimento a usuários, manutenção e configuração de computadores, administração de ambientes Windows Server, Active Directory e GPO.
 
-## Tecnologias que uso
+Também possuo conhecimentos em desenvolvimento web, trabalhando com tecnologias como JavaScript, Node.js, HTML, CSS, MySQL e Firebase. Busco utilizar meus conhecimentos em desenvolvimento como uma ferramenta para criar soluções, automatizar processos e resolver problemas de forma mais eficiente.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-    <img align="center" alt="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-    <img align="center" alt="Bootstrap"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
-    <img align="center" alt="JS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-    <img align="center" alt=".NET"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30"/>
-    <img align="center" alt="C#"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-     <img align="center" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-</div><br/>
+Atualmente, estou focado em aprimorar meus conhecimentos em infraestrutura, administração de sistemas, redes e desenvolvimento, buscando evoluir continuamente tanto tecnicamente quanto profissionalmente. Tenho interesse em novos desafios, aprendizado constante e em contribuir para a construção de soluções eficientes e confiáveis.
 
-Apaixonado por tecnologia, buscando aprender mais a cada dia...
 
-<br/>
 
-## Contatos
-<a href = "mailto:erikr.png@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+# 🛠️ Tech Stack
+
+## 🖥️ Infraestrutura & Suporte
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPO-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redes_TCP%2FIP-444444?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDP-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+- Suporte técnico
+- Administração de Windows Server
+- Active Directory
+- Group Policy (GPO)
+- Redes
+- Manutenção de hardware e software
+
+
+
+## 🌐 Desenvolvimento Web
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+Tenho experiência no desenvolvimento de aplicações e projetos web utilizando:
+
+- JavaScript
+- Node.js
+- HTML5
+- CSS3
+- Firebase
+
+
+
+## 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+Experiência com bancos de dados relacionais e utilização do Firebase em aplicações web.
+
+
+
+## 🔧 Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+
+
+
+# 📫 Entre em contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/erik-rafael/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ErikRafael03">
+    <img src="https://img.shields.io/badge/GitHub-ErikRafael03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://erik-rafael-portfolio.erikrafael-dev.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Erik_Rafael-485389?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+📧 **erikrafael.dev@gmail.com**
+
+---
+
+> 🚀 Sempre aprendendo, construindo e evoluindo.
