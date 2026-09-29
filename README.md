@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em infraestrutura, admi
 
 
 
-# 🛠️ Tech Stack
+# 🛠️ Conhecimentos
 
 ## 🖥️ Infraestrutura & Suporte
 
